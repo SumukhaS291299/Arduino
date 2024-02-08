@@ -1,0 +1,35 @@
+How to connect ESP8266 with adapter  board using Arduino
+
+
+Step 1 Change board to esp8266 generic after installation of board
+
+Select correct COM port
+
+Connections: 
+Step 2
+
+ESP8266 Adapter   Arduino
+Vcc --------------  3.3V
+Gnd--------------  Gnd
+GPIO-0 ----------  Gnd
+Tx --------------   Tx
+Rx ---------------   Rx
+
+Step 3
+
+Connect Reset pin of Arduino Gnd to disable ardunio
+
+Step 4 
+Upload sketch You should see progress
+
+
+Step 5 
+Remove Gnd from GPIO-0 
+
+Unplug and replug  Reset (Toggle reset pin to ground (via switch))
+
+WOwwwOoow
+
+All Done !!
+
+Sometimes doesnot work first time Plugin plugout try again to flash
