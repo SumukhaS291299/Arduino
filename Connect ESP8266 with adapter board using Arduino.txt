@@ -32,4 +32,9 @@ WOwwwOoow
 
 All Done !!
 
-Sometimes doesnot work first time Plugin plugout try again to flash
+Sometimes doesnot work first time plugout Plugin try again to flash
+
+UPDATE
+For me the plugout Plugin problem was resolved by using a better cable
+Looks like my old cable wasn't able to send out data as much as the esp8266 wanted :)
+Hope this helps
